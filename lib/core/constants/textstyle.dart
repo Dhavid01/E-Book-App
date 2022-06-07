@@ -17,13 +17,13 @@ TextStyle caption = GoogleFonts.poppins(
 );
 
 TextStyle headingMeduim = GoogleFonts.poppins(
-    fontSize: 20, fontWeight: FontWeight.w600, color: Colors.white);
+    fontSize: 20, fontWeight: FontWeight.w600, color: Colors.black);
 
 TextStyle captionMedium = GoogleFonts.poppins(
-    fontSize: 18, fontWeight: FontWeight.w600, color: Colors.grey);
+    fontSize: 15, fontWeight: FontWeight.w600, color: Colors.black);
 
 TextStyle headingRegular = GoogleFonts.poppins(
-    fontSize: 30, fontWeight: FontWeight.w800, color: Colors.white);
+    fontSize: 30, fontWeight: FontWeight.w800, color: Colors.black);
 
 TextStyle superScript = GoogleFonts.poppins(
     fontWeight: FontWeight.w800,
