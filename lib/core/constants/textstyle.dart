@@ -20,7 +20,7 @@ TextStyle headingMeduim = GoogleFonts.poppins(
     fontSize: 20, fontWeight: FontWeight.w600, color: Colors.white);
 
 TextStyle captionMedium = GoogleFonts.poppins(
-    fontSize: 15, fontWeight: FontWeight.w600, color: Colors.grey);
+    fontSize: 18, fontWeight: FontWeight.w600, color: Colors.grey);
 
 TextStyle headingRegular = GoogleFonts.poppins(
     fontSize: 30, fontWeight: FontWeight.w800, color: Colors.white);
